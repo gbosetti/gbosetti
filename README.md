@@ -2,9 +2,9 @@
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I’m currently working as a full-stack Web Engineer in the CRM domain
 - 🌱 I’m currently learning UX and browser automation
-- 🤲 I’m looking to collaborate on language learning and cultural heritage open-source projects
-- 🇦🇷 I'm Argentinean and 🇮🇹 Italian
-- 😄 I love cycling, slacklining, hiking, practicing languages, and singing
+- 🤲 I’m looking to collaborate on JavaScript-based open-source projects
+- 🇦🇷 I'm Argentinian and 🇮🇹 Italian
+- 😄 I love cycling, slacklining, hiking, practicing outdoor activities
 
 ---
 <p align="center">
